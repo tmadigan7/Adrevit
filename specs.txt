@@ -1,3 +1,0 @@
-cust profile --> DB
-ads --> matching engine --> cust
-ads-rewards --> cust
